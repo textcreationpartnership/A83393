@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Truth of our bad newes from Exeter, sent in a letter, dated May 20. 1643. from a considerable man there, to an eminent merchant in London: and may serve as a confutation of our malignants boasting, who take all advantages to discourage the well-affected party.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83393</idno>
+            <idno type="STC">Wing E22</idno>
+            <idno type="STC">Thomason E103_12</idno>
+            <idno type="STC">ESTC R22141</idno>
+            <idno type="EEBO-CITATION">99871608</idno>
+            <idno type="PROQUEST">99871608</idno>
+            <idno type="VID">155918</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83393)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155918)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E103[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Truth of our bad newes from Exeter, sent in a letter, dated May 20. 1643. from a considerable man there, to an eminent merchant in London: and may serve as a confutation of our malignants boasting, who take all advantages to discourage the well-affected party.</title>
+                  <author>N. E.</author>
+               </titleStmt>
+               <extent>[2], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Rothwell, at the Sun in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May 24, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter signed: N.E.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Exeter (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155918:1" rendition="simple:additions"/>
+            <p>The Truth Of our bad Newes FROM EXETER, Sent in a Letter, dated <hi>May</hi> 20, 1643. from a conſiderable man there, to an eminent Merchant in <hi>London:</hi> And may ſerve as a Confutation of our <hi>Malignants</hi> boaſting, who take all advan<g ref="char:EOLhyphen"/>tages to diſcourage the well-af<g ref="char:EOLhyphen"/>fected Party.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Rothwell,</hi> at the Sun in <hi>Pauls</hi> Church<g ref="char:EOLhyphen"/>yard. <hi>May</hi> 24. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155918:2"/>
+            <pb n="1" facs="tcp:155918:2"/>
+            <head>The truth of our bad Newes FROM EXETER, Sent from a conſiderable man there, to an eminent Merchant in <hi>London;</hi> And may ſerve as a Confutation of our <hi>Malignants</hi> boaſting, who take all advantages to diſcourage the well-affected Party.</head>
+            <opener>
+               <salute>Maſter Agher,<lb/>
+                  <seg rend="decorInit">I</seg> Kindly ſalute you, &amp;c.</salute>
+            </opener>
+            <p>Yours of the 16. preſent I received, with the en<g ref="char:EOLhyphen"/>cloſed from our Friend Maſter <hi>Newgate;</hi> I ſhall onely intreat you at preſent
+<pb n="2" facs="tcp:155918:3"/>to give conveyance to this incloſed by the next Poſt.</p>
+            <p>The Parliament forces in theſe parts have on <hi>Tuſeday</hi> laſt received a very great defeat by the <hi>Corniſh,</hi> at <hi>Stratton</hi> in <hi>Cornwall,</hi> where were about five thouſand foot, and not one Horſe, they being twenty Miles farther in <hi>Cornwall,</hi> to prevent the raiſing of the coun<g ref="char:EOLhyphen"/>trey upon the <hi>Poſſe Comitatus.</hi> The enemy was foure thouſand foot and five hundred horſe; the fight continued twelve Houres, in all which time our poore Gray-coats and Vo<g ref="char:EOLhyphen"/>luntiers did their parts very manfully; but our baſe cow-hearted trained Souldiers, as ſoone as they came to doe ſervice ran all away, and brought the whole Army into an utter confuſion. <hi>They</hi> had one troope of Horſe, or more, in the Reare, which forced them on to fight; and the reſt of the Horſe ſeeing we
+<pb n="3" facs="tcp:155918:3"/>had none to oppoſe did great ſpoile.</p>
+            <p>Wee have loſt three hundred men, with thoſe that were taken <hi>Priſoners,</hi> two thou<g ref="char:EOLhyphen"/>ſand Armes, Powder, Mat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h: We had foure thouſand pounds there in Money, which was all preſerved to a ſmall matter.</p>
+            <p>Our Horſe, being ſixe hundred, and about a thouſand Dragooners, were at <hi>Bodmin</hi> in the midſt of <hi>Cornwall,</hi> where they releaſed an hundred and fifty <hi>Priſoners,</hi> and many coun<g ref="char:EOLhyphen"/>trey people came in to them; but hearing of this defeat preſently revolted, and began to ſet upon our Horſe; but they behaved them<g ref="char:EOLhyphen"/>ſelves ſo well, that they cleared their way through them, killed many of them, and tooke up Horſes in the countrey and horſt their Priſoners, whom they had ſet free, and are ſafely come to <hi>Plimouth.</hi>
+            </p>
+            <p>Our ſtrength was ſo great, and ſo well ac<g ref="char:EOLhyphen"/>commodated,
+<pb n="4" facs="tcp:155918:4"/>that doubtleſſe the hearts of Gods people were too much ſet upon them and therefore Gods preſence being with<g ref="char:EOLhyphen"/>drawne, wee had no more left then an Arme of fleſh.</p>
+            <p>It hath been apparent ſince theſe troubles began, the Lord hath been pleaſed to worke greater deliverances by weake meanes, then by a powerfull Army; but I confidently be<g ref="char:EOLhyphen"/>leeve this Victory the enemy hath obtained will but heighten their pride, and make them the more fit for deſtruction, and fleſh them up againſt the day of Slaughter.</p>
+            <p>God will not be wanting on his part, if we be not wanting on ours.</p>
+            <closer>
+               <signed>Yours at command, <hi>N. E.</hi>
+               </signed>
+               <dateline>Exon. <date>May 20. 1643.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:155918:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
